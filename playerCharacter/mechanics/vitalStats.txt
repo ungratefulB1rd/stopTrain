@@ -1,0 +1,5 @@
+hp
+mp
+physical
+special
+speed?

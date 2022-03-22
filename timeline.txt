@@ -1,0 +1,18 @@
+first step is decide how to make it
+	unity 3d
+	game maker studio
+	rpg maker
+	unreal
+prototyping
+	making game at its most bare
+determine scope of ur game
+	limit ur game to a small scope
+plan development
+	break it into monthly/weekly goals
+polish
+	complete and perfect every tiny detail
+	release the best version of ur game that u can
+	spend abt half as much time here as u did on the initial production
+release
+maintain
+reflect

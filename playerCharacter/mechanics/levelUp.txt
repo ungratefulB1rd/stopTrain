@@ -1,0 +1,7 @@
+stay increase
+	hp and mp
+		how much each
+		what abt if they aren't using mp
+	increase offense
+		physical and special
+		

@@ -1,0 +1,8 @@
+player controls game
+	botw and elden ring
+	let player see cool stuff and decide to go there
+	let players run free very early
+game controls player
+	players are dragged around by markers
+guide the player subtly and gently using hazards and rewards
+make dif locations unique enough to navigate and interesting enough to draw players in
